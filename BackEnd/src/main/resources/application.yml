@@ -1,0 +1,13 @@
+mailServer:
+  host: smtp.gmail.com
+  port: 587
+  email: mubaohiemvnk@gmail.com
+  password: ftrm ywog ooqk emqb
+  protocol: smtp
+  isSSL: false
+
+frontend:
+  base-endpoint: http://localhost:5173
+
+backend:
+  base-endpoint: http://localhost:8080
